@@ -1,0 +1,10 @@
+C:\Users\NurulloAlijonov\source\repos\ImageProccessing\ImageProccessing\bin\Debug\ImageProccessing.exe.config
+C:\Users\NurulloAlijonov\source\repos\ImageProccessing\ImageProccessing\bin\Debug\ImageProccessing.exe
+C:\Users\NurulloAlijonov\source\repos\ImageProccessing\ImageProccessing\bin\Debug\ImageProccessing.pdb
+C:\Users\NurulloAlijonov\source\repos\ImageProccessing\ImageProccessing\obj\Debug\ImageProccessing.csprojAssemblyReference.cache
+C:\Users\NurulloAlijonov\source\repos\ImageProccessing\ImageProccessing\obj\Debug\ImageProccessing.Form1.resources
+C:\Users\NurulloAlijonov\source\repos\ImageProccessing\ImageProccessing\obj\Debug\ImageProccessing.Properties.Resources.resources
+C:\Users\NurulloAlijonov\source\repos\ImageProccessing\ImageProccessing\obj\Debug\ImageProccessing.csproj.GenerateResource.cache
+C:\Users\NurulloAlijonov\source\repos\ImageProccessing\ImageProccessing\obj\Debug\ImageProccessing.csproj.CoreCompileInputs.cache
+C:\Users\NurulloAlijonov\source\repos\ImageProccessing\ImageProccessing\obj\Debug\ImageProccessing.exe
+C:\Users\NurulloAlijonov\source\repos\ImageProccessing\ImageProccessing\obj\Debug\ImageProccessing.pdb
